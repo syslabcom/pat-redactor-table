@@ -1,0 +1,8 @@
+{
+  "name": "pat-redactor-table",
+  "version": "0.0.1",
+  "dependencies": {
+    "pat-redactor": "~0.0.1"
+  }
+}
+
